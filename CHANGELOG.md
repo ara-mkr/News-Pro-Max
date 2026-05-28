@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the Unbiased News Skill are documented here.
+All notable changes to the News Pro Max Skill are documented here.
 
 ## v2.2 (Final) - May 2026
 
