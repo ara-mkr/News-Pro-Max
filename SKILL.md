@@ -1,5 +1,5 @@
 ---
-name: unbiased-news
+name: News-Pro-Max
 description: >
   Full multi-agent pipeline that researches any news topic, political issue, debate, controversy,
   or "X vs Y" question and delivers a verified, balanced, bias-free briefing so the user can form
@@ -10,7 +10,7 @@ description: >
   Do not use for pure how-to questions or clearly non-controversial factual lookups.
 ---
 
-# Unbiased News — v2.2 (final)
+# News Pro Max — v2.2 (final)
 
 Delivers a verified, bias-stripped briefing on any news topic using a sequential multi-agent pipeline.
 Each agent has a single job. No agent sees the final output of a prior agent's bias — they work on raw material.
