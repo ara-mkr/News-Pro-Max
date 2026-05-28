@@ -1,4 +1,5 @@
-# Unbiased News Skill v2.2
+# News Pro Max
+<img width="1920" height="1080" alt="news for claude" src="https://github.com/user-attachments/assets/689d85e9-0b8d-4df4-8f9b-932eee004b97" />
 
 A multi-agent Claude skill that researches any news topic through 6 independent agents and delivers a verified, bias-free briefing. No opinion. No spin. Form your own conclusion.
 
@@ -120,12 +121,12 @@ Full stress test report with detailed findings for each topic: [tests/STRESS-TES
 ## Repo Structure
 
 ```
-unbiased-news/
+News-Pro-Max/
   README.md              # This file
   SKILL.md               # The skill definition (install this)
   CHANGELOG.md           # Version history with all fixes
   LICENSE                 # MIT
-  unbiased-news.skill    # Packaged skill file for Claude
+  News-Pro-Max.skill    # Packaged skill file for Claude
   examples/
     EXAMPLES.md          # Trigger phrases, output format, tags reference
   tests/
@@ -135,7 +136,7 @@ unbiased-news/
 
 ## Installation
 
-1. Download `unbiased-news.skill`
+1. Download `News-Pro-Max.skill`
 2. Install it in Claude
 
 Or copy `SKILL.md` directly into your Claude skill directory.
