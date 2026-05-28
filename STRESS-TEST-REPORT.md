@@ -1,4 +1,4 @@
-# Stress Test Report: Unbiased News Skill v2.2
+# Stress Test Report: News Pro Max Skill v2.2
 
 ## Overview
 
