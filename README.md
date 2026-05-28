@@ -131,7 +131,7 @@ News-Pro-Max/
     EXAMPLES.md          # Trigger phrases, output format, tags reference
   tests/
     STRESS-TEST-REPORT.md                        # Full 40-topic results
-    unbiased-news-skill-stress-test-40-topics.pdf # PDF version
+    news-pro-max-stress-test-40-topics.pdf # PDF version
 ```
 
 ## Installation
